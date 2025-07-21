@@ -32,11 +32,6 @@
 <br>
 
 <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=iAkcc&theme=dark&background=141321&ring=E32636&fire=E32636&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E32636&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
-    </a>
-</p>
-<p align="center">
     <a href="https://github.com/iAkcc/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=iAkcc&show_icons=true&theme=dark&bg_color=141321&title_color=E32636&text_color=FFFFFF&icon_color=E32636&border_color=E32636" alt="iAkcc GitHub stats"/>
     </a>
