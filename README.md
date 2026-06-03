@@ -1,6 +1,6 @@
 <div align="center" width="50">
 </div>
-<h1 align="center">Hola, me llamo Axres 👋</h1>
+<h1 align="center">Hola, me llamo Aresiq 👋</h1>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=iAkcc&color=E32636"/> 
